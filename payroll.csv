@@ -1,0 +1,11 @@
+Payroll_ID,Employee_ID,Salary_Amount,Bonus_Amount,Deductions,Payment_Status
+1,1,58333.33,5000,2000,Processed
+2,2,66666.67,5000,2000,Pending
+3,3,75000.0,5000,2000,Processed
+4,4,62500.0,5000,2000,Failed
+5,5,70833.33,5000,2000,Processed
+6,6,60000.0,5000,2000,Pending
+7,7,41666.67,5000,2000,Processed
+8,8,79166.67,5000,2000,Failed
+9,9,83333.33,5000,2000,Processed
+10,10,65000.0,5000,2000,Pending

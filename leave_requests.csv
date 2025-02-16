@@ -1,0 +1,11 @@
+Leave_ID,Employee_ID,Leave_Type,Start_Date,End_Date,Leave_Status
+1,1,Sick Leave,2024-03-01,2024-03-02,Approved
+2,2,Casual Leave,2024-03-16,2024-03-17,Pending
+3,3,Paid Leave,2024-03-31,2024-04-01,Rejected
+4,4,Unpaid Leave,2024-04-15,2024-04-16,Approved
+5,5,Maternity Leave,2024-04-30,2024-05-01,Pending
+6,6,Sick Leave,2024-05-15,2024-05-16,Approved
+7,7,Casual Leave,2024-05-30,2024-05-31,Pending
+8,8,Paid Leave,2024-06-14,2024-06-15,Rejected
+9,9,Unpaid Leave,2024-06-29,2024-06-30,Approved
+10,10,Maternity Leave,2024-07-14,2024-07-15,Pending
