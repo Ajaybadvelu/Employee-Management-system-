@@ -1,0 +1,11 @@
+Employee_ID,Full_Name,Job_Title,Department_ID,Gender,Hire_Date,Annual_Salary,Manager_ID
+1,Amit Sharma,HR Manager,1,Male,2015-01-01,700000,3
+2,Priya Singh,Finance Analyst,2,Female,2016-01-01,800000,3
+3,Rajesh Verma,Software Engineer,3,Male,2016-12-31,900000,3
+4,Anjali Nair,Marketing Manager,4,Female,2017-12-31,750000,3
+5,Vikram Patel,Operations Head,5,Male,2018-12-31,850000,3
+6,Neha Kapoor,Sales Executive,6,Female,2019-12-31,720000,9
+7,Suresh Reddy,Customer Support,7,Male,2020-12-30,500000,9
+8,Pooja Iyer,Legal Advisor,8,Female,2021-12-30,950000,9
+9,Rahul Khanna,R&D Scientist,9,Male,2022-12-30,1000000,9
+10,Swati Choudhury,Procurement Head,10,Female,2023-12-30,780000,9
